@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c257f6c2-436d-41cd-8e0b-a0629d9f5778" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:56963/Calculators.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Calculators1.xsd" MetadataType="Schema" ID="6e282f68-9f3f-468e-bcd1-e89b7cd4009c" SourceId="1" SourceUrl="http://localhost:56963/Calculators.svc?xsd=xsd1" />
+    <MetadataFile FileName="CalculatorsLogic.wsdl" MetadataType="Wsdl" ID="c53d2c2f-eb5b-48ae-a789-0419fafd7121" SourceId="1" SourceUrl="http://localhost:56963/Calculators.svc?wsdl" />
+    <MetadataFile FileName="Calculators.xsd" MetadataType="Schema" ID="80acdb4e-9222-402f-93fd-afccf122738b" SourceId="1" SourceUrl="http://localhost:56963/Calculators.svc?xsd=xsd0" />
+    <MetadataFile FileName="Calculators.disco" MetadataType="Disco" ID="b34a5ca8-beed-4177-ad8a-45171f875d40" SourceId="1" SourceUrl="http://localhost:56963/Calculators.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

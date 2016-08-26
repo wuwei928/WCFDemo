@@ -1,0 +1,9 @@
+E:\Demo\SimpleWCF\SimpleWCF.Logic\bin\Debug\SimpleWCF.Logic.dll
+E:\Demo\SimpleWCF\SimpleWCF.Logic\bin\Debug\SimpleWCF.Logic.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Logic\bin\Debug\SimpleWCF.Contract.dll
+E:\Demo\SimpleWCF\SimpleWCF.Logic\bin\Debug\SimpleWCF.Contract.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Logic\obj\Debug\SimpleWCF.Logic.dll
+E:\Demo\SimpleWCF\SimpleWCF.Logic\obj\Debug\SimpleWCF.Logic.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Logic\bin\Debug\Framework.Service.Infrastructure.dll
+E:\Demo\SimpleWCF\SimpleWCF.Logic\bin\Debug\log4net.dll
+E:\Demo\SimpleWCF\SimpleWCF.Logic\obj\Debug\SimpleWCF.Logic.csprojResolveAssemblyReference.cache

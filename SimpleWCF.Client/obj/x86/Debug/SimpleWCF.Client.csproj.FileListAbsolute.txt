@@ -1,0 +1,6 @@
+E:\Demo\SimpleWCF\SimpleWCF.Client\bin\Debug\SimpleWCF.Client.exe.config
+E:\Demo\SimpleWCF\SimpleWCF.Client\bin\Debug\SimpleWCF.Client.exe
+E:\Demo\SimpleWCF\SimpleWCF.Client\bin\Debug\SimpleWCF.Client.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Client\obj\x86\Debug\SimpleWCF.Client.exe
+E:\Demo\SimpleWCF\SimpleWCF.Client\obj\x86\Debug\SimpleWCF.Client.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Client\obj\x86\Debug\SimpleWCF.Client.csprojResolveAssemblyReference.cache

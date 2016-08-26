@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="C012B292-9828-402A-9FFF-B7944443C227" ModuleId="SimpleWCF.Contract" />
+  <Module PersistentId="9053914C-4891-46BD-8C26-2A38D721D8FE" ModuleId="SimpleWCF.Logic" />
+</Modules>

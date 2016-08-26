@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="26fd5f7d-8978-4d6d-adae-a126caf9ac61" name="admin@ADMIN-PC 2012-08-08 10:51:24" runUser="admin-PC\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="82f59dc1-3363-4347-b827-c222bb016f93">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_ADMIN-PC 2012-08-08 10_51_24">
+      <DeploymentItem filename="E:\Demo\SimpleWCF\Dependencies\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="E:\Demo\SimpleWCF\SimpleWCF.Logic\bin\Debug\SimpleWCF.Logic.dll" />
+      <DeploymentItem filename="E:\Demo\SimpleWCF\SimpleWCF.Contract\bin\Debug\SimpleWCF.Contract.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-08T10:51:24.7363301+08:00" queuing="2012-08-08T10:51:25.4643717+08:00" start="2012-08-08T10:51:25.5153746+08:00" finish="2012-08-08T10:51:26.2654175+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MulOperatorTest" storage="e:\demo\simplewcf\operatortest\bin\debug\operatortest.dll" id="e4546eba-d98d-8353-8cc9-8560d0b8ffcc">
+      <Execution id="5dacade7-c1ed-4eed-b9d0-7ed5ec25cc8f" />
+      <TestMethod codeBase="E:/Demo/SimpleWCF/OperatorTest/bin/Debug/OperatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OperatorTest.LogicTest, OperatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MulOperatorTest" />
+    </UnitTest>
+    <UnitTest name="SubOperatorTest" storage="e:\demo\simplewcf\operatortest\bin\debug\operatortest.dll" id="0f40c0b0-533c-213b-6679-a6aa1d59f526">
+      <Execution id="b6ea99ba-dbeb-4bb0-9f3f-ff2ff04f1631" />
+      <TestMethod codeBase="E:/Demo/SimpleWCF/OperatorTest/bin/Debug/OperatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OperatorTest.LogicTest, OperatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SubOperatorTest" />
+    </UnitTest>
+    <UnitTest name="AddOperatorTest" storage="e:\demo\simplewcf\operatortest\bin\debug\operatortest.dll" id="1c179e00-143e-e313-ac4f-11f7cff75811">
+      <Execution id="71787b22-8150-4f03-b81b-101921b77719" />
+      <TestMethod codeBase="E:/Demo/SimpleWCF/OperatorTest/bin/Debug/OperatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OperatorTest.LogicTest, OperatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddOperatorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0f40c0b0-533c-213b-6679-a6aa1d59f526" executionId="b6ea99ba-dbeb-4bb0-9f3f-ff2ff04f1631" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c179e00-143e-e313-ac4f-11f7cff75811" executionId="71787b22-8150-4f03-b81b-101921b77719" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4546eba-d98d-8353-8cc9-8560d0b8ffcc" executionId="5dacade7-c1ed-4eed-b9d0-7ed5ec25cc8f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b6ea99ba-dbeb-4bb0-9f3f-ff2ff04f1631" testId="0f40c0b0-533c-213b-6679-a6aa1d59f526" testName="SubOperatorTest" computerName="ADMIN-PC" duration="00:00:00.0179769" startTime="2012-08-08T10:51:25.5443763+08:00" endTime="2012-08-08T10:51:26.1504109+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b6ea99ba-dbeb-4bb0-9f3f-ff2ff04f1631">
+    </UnitTestResult>
+    <UnitTestResult executionId="71787b22-8150-4f03-b81b-101921b77719" testId="1c179e00-143e-e313-ac4f-11f7cff75811" testName="AddOperatorTest" computerName="ADMIN-PC" duration="00:00:00.0007120" startTime="2012-08-08T10:51:26.1584114+08:00" endTime="2012-08-08T10:51:26.1644117+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71787b22-8150-4f03-b81b-101921b77719">
+    </UnitTestResult>
+    <UnitTestResult executionId="5dacade7-c1ed-4eed-b9d0-7ed5ec25cc8f" testId="e4546eba-d98d-8353-8cc9-8560d0b8ffcc" testName="MulOperatorTest" computerName="ADMIN-PC" duration="00:00:00.0006680" startTime="2012-08-08T10:51:26.1734122+08:00" endTime="2012-08-08T10:51:26.1784125+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5dacade7-c1ed-4eed-b9d0-7ed5ec25cc8f">
+    </UnitTestResult>
+  </Results>
+</TestRun>

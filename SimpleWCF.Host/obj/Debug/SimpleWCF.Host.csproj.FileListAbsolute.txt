@@ -1,0 +1,16 @@
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\SimpleWCF.Host.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\SimpleWCF.Host.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\SimpleWCF.Contract.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\SimpleWCF.Contract.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Host\obj\Debug\SimpleWCF.Host.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\obj\Debug\SimpleWCF.Host.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\SimpleWCF.Logic.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\SimpleWCF.Logic.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\Framework.Service.Infrastructure.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\log4net.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\Framework.Service.IoC.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\Microsoft.Practices.Unity.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Demo\SimpleWCF\SimpleWCF.Host\bin\SimpleWCF.Host.dll.config
+E:\Demo\SimpleWCF\SimpleWCF.Host\obj\Debug\SimpleWCF.Host.csprojResolveAssemblyReference.cache

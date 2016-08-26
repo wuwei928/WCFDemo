@@ -1,0 +1,5 @@
+E:\Demo\SimpleWCF\SimpleWCF.Contract\bin\Debug\SimpleWCF.Contract.dll
+E:\Demo\SimpleWCF\SimpleWCF.Contract\bin\Debug\SimpleWCF.Contract.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Contract\obj\Debug\SimpleWCF.Contract.dll
+E:\Demo\SimpleWCF\SimpleWCF.Contract\obj\Debug\SimpleWCF.Contract.pdb
+E:\Demo\SimpleWCF\SimpleWCF.Contract\obj\Debug\SimpleWCF.Contract.csprojResolveAssemblyReference.cache
